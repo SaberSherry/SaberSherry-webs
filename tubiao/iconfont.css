@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1665241226869') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 85px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-you:before {
+  content: "\e618";
+}
+.icon-you:hover
+{
+  color:white;
+}
+
+.icon-zuo:before {
+  content: "\e619";
+}
+.icon-zuo:hover
+{
+  color:white;
+}
+
+.icon-dingbu:before {
+  content: "\e61f";
+  color:azure;
+  text-shadow:3px 3px 3px black;
+}
+
